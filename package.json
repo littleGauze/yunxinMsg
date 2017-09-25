@@ -1,0 +1,28 @@
+{
+  "name": "yunxinmsg",
+  "version": "1.0.0",
+  "description": "yun xin sms api demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littleGauze/yunxinMsg.git"
+  },
+  "keywords": [
+    "yunxin",
+    "sms",
+    "demo"
+  ],
+  "author": "littleGauze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/littleGauze/yunxinMsg/issues"
+  },
+  "homepage": "https://github.com/littleGauze/yunxinMsg#readme",
+  "dependencies": {
+    "request": "^2.82.0",
+    "request-promise": "^4.2.1"
+  }
+}

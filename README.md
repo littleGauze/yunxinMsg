@@ -27,7 +27,8 @@ client.sendSMS({
             {
             	"mobile": "17682447866",
                 "msg": "针对个人的营销短信"	//不传默认使用defaultMsg的消息内容
-            }
+            },
+            ...
         ]
     }
 }).then(res => {
